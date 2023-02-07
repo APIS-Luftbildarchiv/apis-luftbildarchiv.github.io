@@ -41,7 +41,7 @@
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS/issues]]></tracker>
-        <repository><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS]]></repository>
+        <repository><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS3]]></repository>
         <tags><![CDATA[archaeology,aerial archive,apis]]></tags>
         <downloads>0</downloads>
         <average_vote>0</average_vote>
@@ -64,7 +64,30 @@
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS/issues]]></tracker>
-        <repository><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS]]></repository>
+        <repository><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS3]]></repository>
+        <tags><![CDATA[archaeology,aerial archive,apis]]></tags>
+        <downloads>0</downloads>
+        <average_vote>0</average_vote>
+        <rating_votes>0</rating_votes>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="APIS" version="3.2.0" plugin_id="4">
+        <description><![CDATA[QGIS Plugin for APIS.]]></description>
+        <about>v3.2.0-aplha.0</about>
+        <version>3.2.0</version>
+        <qgis_minimum_version>3.4.0</qgis_minimum_version>
+        <qgis_maximum_version>3.99.0</qgis_maximum_version>
+        <homepage><![CDATA[http://luftbildarchiv.univie.ac.at/]]></homepage>
+        <file_name>APIS.zip</file_name>
+        <icon>apis.png</icon>
+        <author_name><![CDATA[Johannes Liem (digitalcartography.org)]]></author_name>
+        <download_url>https://github.com/APIS-Luftbildarchiv/APIS3/releases/download/v3.2.0-alpha.0/APIS.zip</download_url>
+        <uploaded_by><![CDATA[brushtyler]]></uploaded_by>
+        <create_date>2020-01-20T12:00:00.000000</create_date>
+        <update_date>2023-02-07T20:00:00.000000</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS/issues]]></tracker>
+        <repository><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS3]]></repository>
         <tags><![CDATA[archaeology,aerial archive,apis]]></tags>
         <downloads>0</downloads>
         <average_vote>0</average_vote>
