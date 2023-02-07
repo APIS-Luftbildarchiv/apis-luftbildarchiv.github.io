@@ -11,7 +11,7 @@
         <file_name>APIS.1.0.5.zip</file_name>
         <icon>apis.png</icon>
         <author_name><![CDATA[Johannes Liem (digitalcartography.org)]]></author_name>
-        <download_url>http://digitalcartography.org/qgisplugins/APIS.1.0.5.zip</download_url>
+        <download_url>https://github.com/APIS-Luftbildarchiv/APIS/releases/download/v1.0.5/APIS.1.0.5.zip</download_url>
         <uploaded_by><![CDATA[brushtyler]]></uploaded_by>
         <create_date>2017-05-25T11:00:00.000000</create_date>
         <update_date>2017-05-25T11:00:00.000000</update_date>
@@ -34,7 +34,7 @@
         <file_name>APIS.3.1.3.zip</file_name>
         <icon>apis.png</icon>
         <author_name><![CDATA[Johannes Liem (digitalcartography.org)]]></author_name>
-        <download_url>http://digitalcartography.org/qgisplugins/APIS.3.1.3.zip</download_url>
+        <download_url>https://github.com/APIS-Luftbildarchiv/APIS3/releases/download/v3.1.3/APIS.3.1.3.zip</download_url>
         <uploaded_by><![CDATA[brushtyler]]></uploaded_by>
         <create_date>2020-01-20T12:00:00.000000</create_date>
         <update_date>2020-10-21T09:00:00.000000</update_date>
@@ -57,7 +57,7 @@
         <file_name>APIS.3.1.4.zip</file_name>
         <icon>apis.png</icon>
         <author_name><![CDATA[Johannes Liem (digitalcartography.org)]]></author_name>
-        <download_url>http://digitalcartography.org/qgisplugins3/APIS.3.1.4.zip</download_url>
+        <download_url>https://github.com/APIS-Luftbildarchiv/APIS3/releases/download/v3.1.4/APIS.3.1.4.zip</download_url>
         <uploaded_by><![CDATA[brushtyler]]></uploaded_by>
         <create_date>2020-01-20T12:00:00.000000</create_date>
         <update_date>2021-08-19T20:00:00.000000</update_date>
