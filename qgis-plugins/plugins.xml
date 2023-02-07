@@ -40,7 +40,7 @@
         <update_date>2020-10-21T09:00:00.000000</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
-        <tracker><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS/issues]]></tracker>
+        <tracker><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS3/issues]]></tracker>
         <repository><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS3]]></repository>
         <tags><![CDATA[archaeology,aerial archive,apis]]></tags>
         <downloads>0</downloads>
@@ -63,7 +63,7 @@
         <update_date>2021-08-19T20:00:00.000000</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
-        <tracker><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS/issues]]></tracker>
+        <tracker><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS3/issues]]></tracker>
         <repository><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS3]]></repository>
         <tags><![CDATA[archaeology,aerial archive,apis]]></tags>
         <downloads>0</downloads>
@@ -86,7 +86,7 @@
         <update_date>2023-02-07T20:00:00.000000</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
-        <tracker><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS/issues]]></tracker>
+        <tracker><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS3/issues]]></tracker>
         <repository><![CDATA[https://github.com/APIS-Luftbildarchiv/APIS3]]></repository>
         <tags><![CDATA[archaeology,aerial archive,apis]]></tags>
         <downloads>0</downloads>
