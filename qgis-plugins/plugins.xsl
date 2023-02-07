@@ -11,7 +11,7 @@
 <style>
 body  {
    font-family:Verdana, Arial, Helvetica, sans-serif;
-width: 45em;
+width: 50em;
  }
 img { padding-right: 8 }
 
